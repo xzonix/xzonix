@@ -1,5 +1,5 @@
 # console.log('Hello World!!👋')
-I'm from **Argentina**, i'm a beginner at Programming (C# and Python) and i talk Spanish & English. Also this GitHub is for some personal projects & tests.
+I'm from **Argentina**, i'm a beginner at Programming (C# and HTML, mostly HTMl) and i talk Spanish & English. Also this GitHub is for some personal projects & tests.
 
 If you want, you can **follow me** on my socials.
 
