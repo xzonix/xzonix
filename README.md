@@ -2,6 +2,7 @@
 
 <p align="left">
 <a href = "mailto:franstuff@proton.me" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@franstuff"  /></a>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/xzonix?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   </p>
 <br>
 <h2>Sobre mi</h2>
