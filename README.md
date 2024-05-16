@@ -63,3 +63,4 @@
 </div>
   <br>
 <br><br>
+<img src="https://myreadme.vercel.app/api/embed/xzonix?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
