@@ -40,9 +40,7 @@ I'm currently learning web development and app development. The first language i
 
 ## <h3 align="left">GitHub Stats</h3>
 
-<a href="">
-  <img align="centre" src="(https://github-readme-stats.vercel.app/api?username=xzonix&theme=transparent&show_icons=true)" />
-<a />
+![xzonix's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzonix&theme=transparent&show_icons=true)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzonix&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
   
