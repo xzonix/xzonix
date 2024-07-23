@@ -26,7 +26,7 @@ I'm currently learning web development and app development. The first language i
   </a>
 
 <p align="center">
-- I'm a degenerate on: <a href="http://twitter.com/xzonix">
+<a href="http://twitter.com/xzonix">
     <img src="https://img.shields.io/twitter/follow/xzonix?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 
