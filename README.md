@@ -20,13 +20,12 @@ I'm currently learning web development and app development. The first language i
 
 ## Cool information😎
 
-<p align="center">
-  
+  <p align="center">
    <a href="https://github.com/xzonix?tab=followers">
     <img src="https://img.shields.io/github/followers/xzonix?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
 
-
+<p align="center">
 - I'm a degenerate on: <a href="http://twitter.com/xzonix">
     <img src="https://img.shields.io/twitter/follow/xzonix?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
