@@ -21,7 +21,7 @@
 
 <h2 >Programming Languages</h2>
 <!--tech stack icons-->
-<p align="left">,
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,css,html,js,github,vscode,ps&perline=12" />
   </a>
